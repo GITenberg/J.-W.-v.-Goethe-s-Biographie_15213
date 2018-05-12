@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5780'
     url: http://www.gutenberg.org/2009/agents/5780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15213#J.-W.-v.-Goethe-s-Biographie
 gutenberg_bookshelf:
 - German Language Books
 - DE Prosa
