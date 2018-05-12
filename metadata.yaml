@@ -1,0 +1,35 @@
+_repo: J.-W.-v.-Goethe-s-Biographie_15213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Döring, Heinrich
+    aliases:
+    - Doring, Heinrich
+    - Doering, Heinrich
+    birthdate: 1789
+    deathdate: 1862
+    gutenberg_agent_id: '5780'
+    url: http://www.gutenberg.org/2009/agents/5780
+description: ''
+gutenberg_bookshelf:
+- German Language Books
+- DE Prosa
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15213'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcc 'CT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- !lcc 'PT'
+- !lcsh 'Authors, German -- 18th century -- Biography'
+title: J. W. v. Goethe's Biographie
+url: http://www.gutenberg.org/ebooks/15213
